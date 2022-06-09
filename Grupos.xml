@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Grupos SYSTEM "Grupos.dtd">
+
+<Grupos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="Grupos.xsd">
+    <Grupo>
+        <Cantidad>20</Cantidad>
+    </Grupo>
+</Grupos>

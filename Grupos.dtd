@@ -1,0 +1,2 @@
+<!ELEMENT Grupos (Grupo)>
+<!ELEMENT Grupo (#PCDATA)>
